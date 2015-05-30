@@ -1,0 +1,6 @@
+Package: Rvenn
+Title: R package for venn diagram
+Version: 0.0.1
+Authors@R: person("Linlin", "Yan", email = "yanlinlin82@gmail.com", role = c("aut", "cre"))
+Description: A simple but useful implementation for drawing venn diagram
+License: GPL-2
