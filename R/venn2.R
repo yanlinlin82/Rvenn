@@ -78,5 +78,5 @@ venn2 <- function(a, b, ab,
 			 label = main, adj = c(.5, .5), cex = 1.5 * cex)
 	}
 
-	NULL
+	invisible(NULL)
 }
